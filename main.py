@@ -1,3 +1,6 @@
+def river():
+    print("river")
+    
 def greet(name):
     """
     Greet a person by name.

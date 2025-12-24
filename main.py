@@ -1,20 +1,13 @@
+<<<<<<< HEAD
 def cavienadd(a, b):
     pass
 def river():
     print("river")
     
+=======
+>>>>>>> c8cce29816b48e2d61774d8cd7a18979f58735e1
 def greet(name):
-    """
-    Greet a person by name.
-    
-    Args:
-        name (str): The person's name
-        
-    Returns:
-        str: A greeting message
-    """
-    return f"Hello, {name}!"
-
+    pass
 
 def main():
     """Main function."""

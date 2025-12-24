@@ -1,30 +1,5 @@
-def cavienadd(a, b):
-    """
-    Add two numbers.
-    
-    Args:
-        a (int): The first number
-        b (int): The second number
-        
-    Returns:
-        int: The sum of the two numbers
-    """
-    return a + b
-def river():
-    print("river")
-    
 def greet(name):
-    """
-    Greet a person by name.
-    
-    Args:
-        name (str): The person's name
-        
-    Returns:
-        str: A greeting message
-    """
-    return f"Hello, {name}!"
-
+    pass
 
 def main():
     """Main function."""
